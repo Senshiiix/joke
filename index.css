@@ -1,13 +1,14 @@
 #background {
     width:100vw;
     height: 100vh;
-    background-image:url("https://www.watson.ch/imgdb/ceb0/Z1200,1200/3713451117906934");
+    background-image:url("https://wallpapers-clan.com/wp-content/uploads/2024/04/sunrise-gradient-background-desktop-wallpaper-preview.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 html {
     overflow: hidden;
+    margin: 0;
 }
 
 #joke {
@@ -18,13 +19,13 @@ html {
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-shadow: #000000 3px 3px, #000000 -3px 3px, #000000 -3px -3px, #000000 3px -3px;
+    text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
 }
 
 #refresh {
     border-radius: 25px;
     color: white;
-    text-shadow: #000000 3px 3px, #000000 -3px 3px, #000000 -3px -3px, #000000 3px -3px;
+    text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
     background-color: black;
     position: absolute;
     top: 20%;
